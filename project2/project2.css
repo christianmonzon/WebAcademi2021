@@ -1,0 +1,50 @@
+
+*{
+  background-color:#7049d1;
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  border-color:azure;
+}
+body{
+  height: 100vh;
+  width:100vw;
+  display: block;
+  position: relative;
+  color:azure;
+}
+*{
+  box-sizing:border-box;
+}
+body{
+  color:azure;
+}
+.topnav{
+  overflow: hidden;
+}
+.topnav a{
+  color:cornsilk;
+  float:left;
+  display:block;
+  text-align:center;
+  padding:14px 16px;
+}
+.topnav a:hover{
+  background-color:darkslategray;
+  color:azure;
+}
+.header{
+  background-color:rgb(125, 175, 125);
+  padding:20xp;
+  text-align: center;
+  color:azure;
+}
+div{
+  border-style:solid;
+  background-color:(125, 175, 125);
+}
+.column{
+  float: left;
+  width:33.33%;
+  padding:15px;
+}

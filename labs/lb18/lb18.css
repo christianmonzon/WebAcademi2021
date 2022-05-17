@@ -1,0 +1,65 @@
+#movingBox{
+  background-color:#549730;
+  border:solid green 3px;
+  width: 75px;
+  height: 75px;
+  position: relative;
+  left: 200px;
+}
+button{
+  color: cornsilk;
+  border:double blue;
+  background-color: #578584;
+  position:relative;
+  left: 100px;
+}
+button:hover{
+  color: blue;
+  border:double cornsilk;
+  background-color: #578584;
+  position:relative;
+  left: 100px;
+}
+
+
+
+
+
+
+*{
+  box-sizing:border-box;
+}
+body{
+  background-color:darkseagreen;
+  color:black;
+}
+.topnav{
+  background-color:rgb(125, 175, 125);
+  overflow: hidden;
+}
+.topnav a{
+  color:cornsilk;
+  float:left;
+  display:block;
+  text-align:center;
+  padding:14px 16px;
+}
+.topnav a:hover{
+  background-color:darkslategray;
+  color:azure;
+}
+.header{
+  background-color:rgb(125, 175, 125);
+  padding:20xp;
+  text-align: center;
+  color:azure;
+}
+div{
+  border-style:solid;
+  background-color:(125, 175, 125);
+}
+.column{
+  float: left;
+  width:33.33%;
+  padding:15px;
+}

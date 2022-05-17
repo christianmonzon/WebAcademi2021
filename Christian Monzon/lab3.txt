@@ -1,0 +1,19 @@
+<!--Doctype HTML-->
+<html>
+          <head>
+                     <title> base html templant</title>
+          </head>
+          <body>
+		<h1> TAEHS</h1>
+		<h2> Web Development</h2>
+		<h3> 10th Grade</h3>
+		<h4> Lab</h4>
+		<h5> Hyperlinks</h5>
+		<h6> by Christian Monzon</h6>
+		<p> content </p>
+			<a href="http://www.taehs.org">click here to visit my HS</a>
+         	<br>
+		<a href="http://www.taehs.org"><img src="taehs.png" width="250px"></a>
+ 	</body>
+
+</html>

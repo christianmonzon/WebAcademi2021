@@ -1,0 +1,13 @@
+body{
+  background-color:#c3a32c;
+  color:azure;
+}
+.images{
+  width: 210px;
+  height: 210px;
+  border-style:double;
+}
+h3{
+  float: center;
+  padding:15px;
+}
